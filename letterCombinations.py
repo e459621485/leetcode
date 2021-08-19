@@ -35,4 +35,4 @@ def letterCombinations(digits):
         return res
 
 
-print(letterCombinations("23"))
+print(letterCombinations("24"))
